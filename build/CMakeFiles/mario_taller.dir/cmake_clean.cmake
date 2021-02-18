@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mario_taller.dir/src/Client/clientenemy.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/clientlevel.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/clientplatform.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/clientplayer.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/clientsurprise.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/login.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/mapstate.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/receiver.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/renderer.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/scoreboard.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/sender.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Client/sound.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/TinyXML2/tinyxml2.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/command.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/config.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/gamestate.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/logger.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/socket.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Common/thread.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/accepter.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/connection.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/enemy.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/level.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/map.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/model.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/platform.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/player.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/surprise.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/Server/validator.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/client.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/main.cpp.o"
+  "CMakeFiles/mario_taller.dir/src/server.cpp.o"
+  "mario_taller"
+  "mario_taller.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/mario_taller.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

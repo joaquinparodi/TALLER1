@@ -1,0 +1,4 @@
+SERVER:
+./mario_taller server 2728
+CLIENT:
+./mario_taller client 2728 localhost
